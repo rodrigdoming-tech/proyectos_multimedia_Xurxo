@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logotip simple: muntanyes i una ruta (caminant) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,70 L42,42 L52,60 L60,46 L74,70 Z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M70,32 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M20,76 L88,76 L88,79 L20,79 Z" />
+</vector>
